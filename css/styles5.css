@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+.jumbotron {
+  float: center;
+  background-color: burlywood;
+  text-align: center;
+  color: white;
+  width: 720px;
+  border: 8px;
+  padding: 8px;
+  margin-top: 20px;
+}
+
+.my-class {
+  float: left;
+  margin-left: 50px;
+  background-color: burlywood
+  color: white;
+  border: 8px;
+  padding: 8px;
+}
+.column {
+  float: left;
+  margin-left: 50px;
+  background-color: burlywood
+  color: white;
+  border: 8px;
+  padding: 8px;
+}
+
+.img {
+  float: left;
+  height: 30%;
+  width: 30%;

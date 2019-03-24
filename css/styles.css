@@ -1,0 +1,64 @@
+.jumbotron {
+  background-color: burlywood;
+  float: center;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 30px;
+  border: 2px solid white;
+  color: white;
+}
+
+.sidebar {
+  background-color: burlywood;
+  color: white;
+  float: left;
+  border: 8px;
+  padding: 8px;
+  margin-left: 50px;
+  border: 2px solid white;
+  margin-top: 2px;
+}
+
+.column {
+    float: right;
+    background-color: burlywood;
+    color: white;
+    border: 8px;
+    padding: 8px;
+    margin-right: 50px;
+    margin-top: 12px;
+    width: 600px;
+  }
+
+.my-class {
+float: left;
+background-color: burlywood;
+color: white;
+margin: 8px;
+border: 2px solid white;
+padding: 4px;
+margin-top: 10px;
+margin-left: 50px;
+}
+.column1 {
+  float: left;
+  background-color: burlywood;
+  color: white;
+  width: 720px;
+  border: 8px;
+  padding: 8px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+}
+
+.img {
+  float: left;
+  height: 30%;
+  width: 30%;
+
+}
+
+body {
+  background-image: url('../img/sl2.jpg');
+}
+.
